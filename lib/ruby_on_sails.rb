@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-require_relative "ruby_on_sails/version"
+require_relative "ruby_on_sails/version" 
+require "ruby_on_sails/array"
 
 module RubyOnSails
   class Application 
